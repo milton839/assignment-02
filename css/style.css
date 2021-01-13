@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color: #FFFBF0;
+}
+.banner_text{
+    font-size: 60px;
+}
+.banner_paragraph{
+    font-size: 18px;
+    color: #3E3E3E;
+}
+.banner_button{
+    background-color: #90AA29;
+    border: 0;
+    padding: 13px 20px;
+    border-radius: 5px;
+}
