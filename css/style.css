@@ -18,6 +18,22 @@ header{
 .banner_button{
     background-color: #90AA29;
     border: 0;
-    padding: 13px 20px;
+    padding: 15px 20px;
     border-radius: 5px;
+}
+.women_card{
+    border: 0;
+}
+.women_card_footer{
+    border: 0;
+    background-color: #fff;
+}
+.card_image{
+    background-color: #F1F1F1;
+    height: 300px;
+    border-radius: 20px;
+}
+.card-title-text{
+    color: #363958;
+    font-size: 25px;
 }
