@@ -27,6 +27,7 @@ header{
 .women_card_footer{
     border: 0;
     background-color: #fff;
+    padding-bottom: 20px;
 }
 .card_image{
     background-color: #F1F1F1;
@@ -48,4 +49,65 @@ header{
 }
 .about_text h3{
     font-size: 20px;
+}
+.subscribe-area{
+    height: 400px;
+    background-color: #FFFBF0;
+}
+.contact-area {
+    position: relative;
+    margin-top: 100px;
+    padding-bottom: 40px;
+    background-color: rgba(237, 237, 237, 0.233);
+}
+.contact-content p {
+	margin-bottom: 30px;
+}
+.contact-content h5 {
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 1;
+	margin-bottom: 20px;
+}
+.contact-content h5 span {
+    text-transform: uppercase;
+	color: #A4BC46;
+}
+.contact-list ul li {
+	display: block;
+	margin-bottom: 10px;
+	font-size: 14px;
+}
+.contact-list ul li:last-child {
+	margin-bottom: 0;
+}
+.contact-list ul li i {
+	color: #A4BC46;
+	width: 18px;
+	margin-right: 5px;
+}
+.contact-list ul li span {
+	font-weight: 600;
+	text-transform: uppercase;
+	margin-right: 10px;
+}
+.contact-form input,
+.contact-form textarea,
+.subscribe {
+	width: 100%;
+	padding: 20px 30px;
+	margin-bottom: 30px;
+	text-transform: capitalize;
+	color: #8b98af;
+	font-size: 14px;
+}
+.contact-form input::placeholder,
+.contact-form textarea::placeholder {
+	color: #8b98af;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+.contact-form textarea {
+	height: 130px;
+	margin-bottom: 40px;
 }
