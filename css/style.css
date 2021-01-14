@@ -111,3 +111,10 @@ header{
 	height: 130px;
 	margin-bottom: 40px;
 }
+
+@media(max-width:991px){
+    .about_item{
+        height: 160px;
+        padding: 0px 0px;
+    }
+}
