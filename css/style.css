@@ -37,3 +37,18 @@ header{
     color: #363958;
     font-size: 25px;
 }
+#about{
+    margin-top: 150px;
+}
+.about_content{
+    /* background-color: red; */
+}
+.about_item{
+    background-color: #fff;
+    height: 130px;
+    padding: 30px 5px;
+    border-radius: 20px;
+}
+.about_text h3{
+    font-size: 20px;
+}
